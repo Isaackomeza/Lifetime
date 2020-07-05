@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Neuton&display=swap');
+body{
+	width: 100vw;
+	margin: 0 auto;
+}
+#my-document{
+	background-color: #EAEDED;
+	font-family: 'Neuton', serif;
+	
+	
+	
+}
+#name{
+	font-size: 30px;
+	font-weight: 400;
+}
+#mypicture{
+	width: 95%;
+	margin: 0 auto;
+	border-radius: 10px;
+}
+
+.body-hierarchy{
+	width: 60%;
+	margin: 0 auto;
+}
+.header, .picture{
+	text-align: center;
+}
+.header{
+	padding-top: 20px;
+}
+.picture{
+	background-color: hsl(180, 3%, 65%);
+	width: 85%;
+	margin: 0 auto;
+	padding: 3% 5% 1% 5%;
+	border-radius: 10px;
+	
+}
+.closing{
+	width: 70%;
+	margin: 0 auto;
+}
+.footer{
+	font-weight: bold;
+	width: 70%;
+	margin: 0 auto;
+	font-size: 30px;
+}
